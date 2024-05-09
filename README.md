@@ -1,7 +1,11 @@
 # App Escolar com Flutter Modular
 ## 📷 Video do Projeto
 
-https://github.com/tassiogustavo/escolar_modular/assets/70405308/4174c793-5411-4e88-a21d-a8690ce6270c
+
+
+https://github.com/luizfelizardo/appbiblioteca_pi3/assets/109241390/fc2f7d06-dbf1-4e3d-954d-c453d641caec
+
+
 
 ## 📝 Descrição do projeto
 O Flutter Modular é um framework de gerenciamento de estado e de roteamento de páginas no Flutter, que oferece diversas vantagens significativas. Com o Modular, pude estruturar meu projeto de forma modularizada, o que trouxe uma série de benefícios:
